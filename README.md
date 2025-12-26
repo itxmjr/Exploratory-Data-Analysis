@@ -27,19 +27,18 @@ The notebook includes visual analysis of:
 ## 📸 Screenshots
 
 <div align="center">
-
-### Sepal Length vs Sepal Width
-<img src="assets/Sepal Length vs Sepal Width.png" alt="Sepal Length vs Sepal Width" width="600"/>
-
-### Petal Length vs Petal Width
-<img src="assets/Petal Length vs Petal Width.png" alt="Petal Length vs Petal Width" width="600"/>
-
-### Pairwise Relationships
-<img src="assets/Pairwise Relationships.png" alt="Pairwise Relationships" width="700"/>
-
-### Feature Comparison by Species
-<img src="assets/Feature Comparison by Species.png" alt="Feature Comparison by Species" width="700"/>
-
+<table>
+<tr>
+<td align="center"><b>Sepal Length vs Sepal Width</b><br><img src="assets/Sepal Length vs Sepal Width.png" alt="Sepal Length vs Sepal Width" width="380"/></td>
+<td align="center"><b>Petal Length vs Petal Width</b><br><img src="assets/Petal Length vs Petal Width.png" alt="Petal Length vs Petal Width" width="380"/></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><b>Pairwise Relationships</b><br><img src="assets/Pairwise Relationships.png" alt="Pairwise Relationships" width="550"/></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><b>Feature Comparison by Species</b><br><img src="assets/Feature Comparison by Species.png" alt="Feature Comparison by Species" width="550"/></td>
+</tr>
+</table>
 </div>
 
 ## 🛠️ Tech Stack
