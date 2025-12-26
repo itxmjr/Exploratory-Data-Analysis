@@ -24,6 +24,24 @@ The notebook includes visual analysis of:
 * Pair plots showing relationships across all features
 * Species-wise box plots
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Sepal Length vs Sepal Width
+<img src="assets/Sepal Length vs Sepal Width.png" alt="Sepal Length vs Sepal Width" width="600"/>
+
+### Petal Length vs Petal Width
+<img src="assets/Petal Length vs Petal Width.png" alt="Petal Length vs Petal Width" width="600"/>
+
+### Pairwise Relationships
+<img src="assets/Pairwise Relationships.png" alt="Pairwise Relationships" width="700"/>
+
+### Feature Comparison by Species
+<img src="assets/Feature Comparison by Species.png" alt="Feature Comparison by Species" width="700"/>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 * **[Python](https://www.python.org/)**: Core programming language (3.13+).
@@ -77,6 +95,11 @@ Ensure you have Python 3.13 or higher installed.
 
 ```
 Exploratory-Data-Analysis/
+├── assets/                 # Visualization screenshots
+│   ├── Feature Comparison by Species.png
+│   ├── Pairwise Relationships.png
+│   ├── Petal Length vs Petal Width.png
+│   └── Sepal Length vs Sepal Width.png
 ├── notebooks/
 │   └── iris_eda.ipynb      # Main analysis notebook
 ├── .gitignore              # Python gitignore configuration
